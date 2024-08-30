@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-Indiana Football is Trash
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -11,7 +11,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Carson Turner's First CS 193 Homework
+- teachers seem to care a lot about their students
+- the class will assist me in other CS courses such as CS 180 and CS 176
+- the students in the class seem like hard workers and relatively social people
+- many students in this class major in Data Science, which is also my major
+- the class seems very engaging and not super stressful
 ## Header 2
 ### Header 3
 
