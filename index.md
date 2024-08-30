@@ -4,32 +4,17 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Carson Turner's First CS 193 Homework
-- teachers seem to care a lot about their students
-- the class will assist me in other CS courses such as CS 180 and CS 176
-- the students in the class seem like hard workers and relatively social people
-- many students in this class major in Data Science, which is also my major
-- the class seems very engaging and not super stressful
-## Header 2
-### Header 3
+My favorite things about CS 193:
+1. teachers seem to care a lot about their students
+2. the class will assist me in other CS courses such as CS 180 and CS 176
+3. the students in the class seem like hard workers and relatively social people
+4. many students in this class major in Data Science, which is also my major
+5. the class seems very engaging and not super stressful
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
